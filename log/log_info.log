@@ -1,0 +1,341 @@
+[2022-07-03 06:20:46,561: INFO: String_Qn]: Replacing the character S with P
+[2022-07-03 06:23:46,646: INFO: main]: creating a new string
+[2022-07-03 06:23:46,646: INFO: String_Qn]: Replacing the character S with P
+[2022-07-03 06:23:46,647: INFO: String_Qn]: Converting the string to upper case and then splitting
+[2022-07-03 06:24:13,155: INFO: main]: creating a new string
+[2022-07-03 06:24:13,157: INFO: String_Qn]: Replacing the character S with P
+[2022-07-03 06:24:13,157: INFO: String_Qn]: Converting the string to upper case and then splitting
+[2022-07-03 06:24:37,702: INFO: main]: creating a new string
+[2022-07-03 06:24:37,702: INFO: String_Qn]: Replacing the character S with P
+[2022-07-03 06:24:37,702: INFO: String_Qn]: Converting the string to upper case and then splitting
+[2022-07-03 06:27:30,343: INFO: main]: creating a new string
+[2022-07-03 06:27:30,344: INFO: String_Qn]: Replacing the character S with P
+[2022-07-03 06:27:30,344: INFO: String_Qn]: Converting the string to upper case and then splitting
+[2022-07-03 06:27:30,344: INFO: String_Qn]: Capitalizing the string
+[2022-07-03 06:27:30,344: INFO: String_Qn]: reversing the string
+[2022-07-03 06:27:30,344: ERROR: String_Qn]: name 'sart' is not defined
+Traceback (most recent call last):
+  File "C:\Users\sunit\PycharmProjects\OOP_Ex\String_Qn.py", line 53, in slice
+    logging.info(f"Slicing the string from {sart} to {stop} with step size{step}")
+NameError: name 'sart' is not defined
+[2022-07-03 06:27:30,354: INFO: String_Qn]: Converting the string to lower case
+[2022-07-03 06:28:42,807: INFO: main]: creating a new string
+[2022-07-03 06:28:42,807: INFO: String_Qn]: Replacing the character S with P
+[2022-07-03 06:28:42,807: INFO: String_Qn]: Converting the string to upper case and then splitting
+[2022-07-03 06:28:42,807: INFO: String_Qn]: Capitalizing the string
+[2022-07-03 06:28:42,808: INFO: String_Qn]: reversing the string
+[2022-07-03 06:28:42,808: ERROR: String_Qn]: name 'stop' is not defined
+Traceback (most recent call last):
+  File "C:\Users\sunit\PycharmProjects\OOP_Ex\String_Qn.py", line 53, in slice
+    logging.info(f"Slicing the string from {start} to {stop} with step size{step}")
+NameError: name 'stop' is not defined
+[2022-07-03 06:28:42,808: INFO: String_Qn]: Converting the string to lower case
+[2022-07-03 06:29:13,722: INFO: main]: creating a new string
+[2022-07-03 06:29:13,723: INFO: String_Qn]: Replacing the character S with P
+[2022-07-03 06:29:13,723: INFO: String_Qn]: Converting the string to upper case and then splitting
+[2022-07-03 06:29:13,723: INFO: String_Qn]: Capitalizing the string
+[2022-07-03 06:29:13,723: INFO: String_Qn]: reversing the string
+[2022-07-03 06:29:13,723: INFO: String_Qn]: Slicing the string from 2 to 5 with step size1
+[2022-07-03 06:29:13,723: INFO: String_Qn]: Converting the string to lower case
+[2022-07-03 06:30:34,288: INFO: main]: creating a new string
+[2022-07-03 06:30:34,288: INFO: main]: String operations
+[2022-07-03 06:30:34,288: INFO: String_Qn]: Replacing the character S with P
+[2022-07-03 06:30:34,288: INFO: String_Qn]: Converting the string to upper case and then splitting
+[2022-07-03 06:30:34,288: INFO: String_Qn]: Capitalizing the string
+[2022-07-03 06:30:34,288: INFO: String_Qn]: reversing the string
+[2022-07-03 06:30:34,288: INFO: String_Qn]: Slicing the string from 2 to 5 with step size1
+[2022-07-03 06:30:34,288: INFO: String_Qn]: Converting the string to lower case
+[2022-07-03 07:31:32,967: INFO: main]: creating a new string
+[2022-07-03 07:31:32,967: INFO: main]: String operations
+[2022-07-03 07:31:32,967: INFO: String_Qn]: Replacing the character S with P
+[2022-07-03 07:31:32,967: INFO: String_Qn]: Converting the string to upper case and then splitting
+[2022-07-03 07:31:32,967: INFO: String_Qn]: Capitalizing the string
+[2022-07-03 07:31:32,967: INFO: String_Qn]: reversing the string
+[2022-07-03 07:31:32,968: INFO: String_Qn]: Slicing the string from 2 to 5 with step size1
+[2022-07-03 07:31:32,968: INFO: String_Qn]: Converting the string to lower case
+[2022-07-03 07:31:32,968: INFO: main]: created a list l <DataStructures_Qn.DataStructures_Class object at 0x000001EE33617E20>
+[2022-07-03 07:31:32,968: INFO: main]: data operations
+[2022-07-03 07:31:32,968: INFO: DataStructures_Qn]: extracting list from data
+[2022-07-03 07:31:32,968: INFO: DataStructures_Qn]: list --> [23, 456, 67, 8, 78, 78]
+[2022-07-03 07:31:32,968: INFO: DataStructures_Qn]: list --> [345, 56, 87, 8, 98, 9]
+[2022-07-03 07:31:32,968: ERROR: DataStructures_Qn]: 'module' object is not callable
+Traceback (most recent call last):
+  File "C:\Users\sunit\PycharmProjects\OOP_Ex\DataStructures_Qn.py", line 160, in extract_numeric
+    logging("extract all numeric data")
+TypeError: 'module' object is not callable
+[2022-07-03 07:31:32,969: INFO: DataStructures_Qn]: extracting values from the dictionary
+[2022-07-03 07:31:32,969: INFO: DataStructures_Qn]: keys --> [dict_values(['sudh', [23, 45, 656]])]
+[2022-07-03 07:31:32,969: INFO: DataStructures_Qn]: extracted []
+[2022-07-03 07:31:32,969: INFO: DataStructures_Qn]: extracting dictionary from data
+[2022-07-03 07:31:32,969: INFO: DataStructures_Qn]: Dictionary --> {'key1': 'sudh', 234: [23, 45, 656]}
+[2022-07-03 07:31:32,969: INFO: DataStructures_Qn]: extracting keys from the dictionary
+[2022-07-03 07:31:32,969: INFO: DataStructures_Qn]: keys --> [dict_keys(['key1', 234])]
+[2022-07-03 07:31:32,969: INFO: DataStructures_Qn]: extracting odd numbers from lists
+[2022-07-03 07:31:32,969: INFO: DataStructures_Qn]: extracting list from data
+[2022-07-03 07:31:32,969: INFO: DataStructures_Qn]: list --> [23, 456, 67, 8, 78, 78]
+[2022-07-03 07:31:32,969: INFO: DataStructures_Qn]: list --> [345, 56, 87, 8, 98, 9]
+[2022-07-03 07:31:32,969: INFO: DataStructures_Qn]: odd numbers [23, 67, 345, 87, 9]
+[2022-07-03 07:31:32,970: INFO: DataStructures_Qn]: extracting tuple from data
+[2022-07-03 07:31:32,970: INFO: DataStructures_Qn]: Tuples --> (234, 6657, 6)
+[2022-07-03 07:31:32,970: INFO: DataStructures_Qn]: Number of occurrences of all data
+[2022-07-03 07:31:32,970: ERROR: DataStructures_Qn]: name 'l' is not defined
+Traceback (most recent call last):
+  File "C:\Users\sunit\PycharmProjects\OOP_Ex\DataStructures_Qn.py", line 138, in occurrences_all
+    for i in l:
+NameError: name 'l' is not defined
+[2022-07-03 07:31:32,970: INFO: DataStructures_Qn]: Try to reverse the data
+[2022-07-03 07:31:32,970: INFO: DataStructures_Qn]: Summing up numerical data
+[2022-07-03 07:31:32,970: ERROR: DataStructures_Qn]: 'module' object is not callable
+Traceback (most recent call last):
+  File "C:\Users\sunit\PycharmProjects\OOP_Ex\DataStructures_Qn.py", line 160, in extract_numeric
+    logging("extract all numeric data")
+TypeError: 'module' object is not callable
+[2022-07-03 07:31:32,970: ERROR: DataStructures_Qn]: 'NoneType' object is not iterable
+Traceback (most recent call last):
+  File "C:\Users\sunit\PycharmProjects\OOP_Ex\DataStructures_Qn.py", line 183, in sum_numeric
+    total = sum(numerics)
+TypeError: 'NoneType' object is not iterable
+[2022-07-03 07:32:51,192: INFO: main]: creating a new string
+[2022-07-03 07:32:51,192: INFO: main]: String operations
+[2022-07-03 07:32:51,192: INFO: String_Qn]: Replacing the character S with P
+[2022-07-03 07:32:51,192: INFO: String_Qn]: Converting the string to upper case and then splitting
+[2022-07-03 07:32:51,192: INFO: String_Qn]: Capitalizing the string
+[2022-07-03 07:32:51,192: INFO: String_Qn]: reversing the string
+[2022-07-03 07:32:51,192: INFO: String_Qn]: Slicing the string from 2 to 5 with step size1
+[2022-07-03 07:32:51,192: INFO: String_Qn]: Converting the string to lower case
+[2022-07-03 07:32:51,192: INFO: main]: created a list l <DataStructures_Qn.DataStructures_Class object at 0x0000020FBD707E20>
+[2022-07-03 07:32:51,192: INFO: main]: data operations
+[2022-07-03 07:32:51,192: INFO: DataStructures_Qn]: extracting list from data
+[2022-07-03 07:32:51,192: INFO: DataStructures_Qn]: list --> [23, 456, 67, 8, 78, 78]
+[2022-07-03 07:32:51,193: INFO: DataStructures_Qn]: list --> [345, 56, 87, 8, 98, 9]
+[2022-07-03 07:32:51,193: ERROR: DataStructures_Qn]: 'module' object is not callable
+Traceback (most recent call last):
+  File "C:\Users\sunit\PycharmProjects\OOP_Ex\DataStructures_Qn.py", line 160, in extract_numeric
+    logging("extract all numeric data")
+TypeError: 'module' object is not callable
+[2022-07-03 07:32:51,193: INFO: DataStructures_Qn]: extracting values from the dictionary
+[2022-07-03 07:32:51,193: INFO: DataStructures_Qn]: keys --> [dict_values(['sudh', [23, 45, 656]])]
+[2022-07-03 07:32:51,193: INFO: DataStructures_Qn]: extracted []
+[2022-07-03 07:32:51,194: INFO: DataStructures_Qn]: extracting dictionary from data
+[2022-07-03 07:32:51,194: INFO: DataStructures_Qn]: Dictionary --> {'key1': 'sudh', 234: [23, 45, 656]}
+[2022-07-03 07:32:51,194: INFO: DataStructures_Qn]: extracting keys from the dictionary
+[2022-07-03 07:32:51,194: INFO: DataStructures_Qn]: keys --> [dict_keys(['key1', 234])]
+[2022-07-03 07:32:51,194: INFO: DataStructures_Qn]: extracting odd numbers from lists
+[2022-07-03 07:32:51,194: INFO: DataStructures_Qn]: extracting list from data
+[2022-07-03 07:32:51,194: INFO: DataStructures_Qn]: list --> [23, 456, 67, 8, 78, 78]
+[2022-07-03 07:32:51,194: INFO: DataStructures_Qn]: list --> [345, 56, 87, 8, 98, 9]
+[2022-07-03 07:32:51,194: INFO: DataStructures_Qn]: odd numbers [23, 67, 345, 87, 9]
+[2022-07-03 07:32:51,194: INFO: DataStructures_Qn]: extracting tuple from data
+[2022-07-03 07:32:51,194: INFO: DataStructures_Qn]: Tuples --> (234, 6657, 6)
+[2022-07-03 07:32:51,194: INFO: DataStructures_Qn]: Number of occurrences of all data
+[2022-07-03 07:32:51,194: ERROR: DataStructures_Qn]: name 'l' is not defined
+Traceback (most recent call last):
+  File "C:\Users\sunit\PycharmProjects\OOP_Ex\DataStructures_Qn.py", line 138, in occurrences_all
+    for i in l:
+NameError: name 'l' is not defined
+[2022-07-03 07:32:51,195: INFO: DataStructures_Qn]: Try to reverse the data
+[2022-07-03 07:32:51,195: INFO: DataStructures_Qn]: Summing up numerical data
+[2022-07-03 07:32:51,195: ERROR: DataStructures_Qn]: 'module' object is not callable
+Traceback (most recent call last):
+  File "C:\Users\sunit\PycharmProjects\OOP_Ex\DataStructures_Qn.py", line 160, in extract_numeric
+    logging("extract all numeric data")
+TypeError: 'module' object is not callable
+[2022-07-03 07:32:51,195: ERROR: DataStructures_Qn]: 'NoneType' object is not iterable
+Traceback (most recent call last):
+  File "C:\Users\sunit\PycharmProjects\OOP_Ex\DataStructures_Qn.py", line 183, in sum_numeric
+    total = sum(numerics)
+TypeError: 'NoneType' object is not iterable
+[2022-07-03 07:35:46,020: INFO: main]: creating a new string
+[2022-07-03 07:35:46,021: INFO: main]: String operations
+[2022-07-03 07:35:46,021: INFO: String_Qn]: Replacing the character S with P
+[2022-07-03 07:35:46,021: INFO: String_Qn]: Converting the string to upper case and then splitting
+[2022-07-03 07:35:46,021: INFO: String_Qn]: Capitalizing the string
+[2022-07-03 07:35:46,021: INFO: String_Qn]: reversing the string
+[2022-07-03 07:35:46,022: INFO: String_Qn]: Slicing the string from 2 to 5 with step size1
+[2022-07-03 07:35:46,022: INFO: String_Qn]: Converting the string to lower case
+[2022-07-03 07:35:46,022: INFO: main]: created a list l <DataStructures_Qn.DataStructures_Class object at 0x0000025DC6BA7E20>
+[2022-07-03 07:35:46,022: INFO: main]: data operations
+[2022-07-03 07:35:46,022: INFO: DataStructures_Qn]: extracting list from data
+[2022-07-03 07:35:46,023: INFO: DataStructures_Qn]: list --> [23, 456, 67, 8, 78, 78]
+[2022-07-03 07:35:46,023: INFO: DataStructures_Qn]: list --> [345, 56, 87, 8, 98, 9]
+[2022-07-03 07:35:46,023: INFO: DataStructures_Qn]: extract all numeric data
+[2022-07-03 07:35:46,023: INFO: DataStructures_Qn]: Extracted values --> [23, 456, 67, 8, 78, 78, 345, 56, 87, 8, 98, 9, 234, 6657, 6, 234]
+[2022-07-03 07:35:46,023: INFO: DataStructures_Qn]: extracting values from the dictionary
+[2022-07-03 07:35:46,023: INFO: DataStructures_Qn]: keys --> [dict_values(['sudh', [23, 45, 656]])]
+[2022-07-03 07:35:46,024: INFO: DataStructures_Qn]: extracted []
+[2022-07-03 07:35:46,024: INFO: DataStructures_Qn]: extracting dictionary from data
+[2022-07-03 07:35:46,024: INFO: DataStructures_Qn]: Dictionary --> {'key1': 'sudh', 234: [23, 45, 656]}
+[2022-07-03 07:35:46,024: INFO: DataStructures_Qn]: extracting keys from the dictionary
+[2022-07-03 07:35:46,024: INFO: DataStructures_Qn]: keys --> [dict_keys(['key1', 234])]
+[2022-07-03 07:35:46,025: INFO: DataStructures_Qn]: extracting odd numbers from lists
+[2022-07-03 07:35:46,025: INFO: DataStructures_Qn]: extracting list from data
+[2022-07-03 07:35:46,025: INFO: DataStructures_Qn]: list --> [23, 456, 67, 8, 78, 78]
+[2022-07-03 07:35:46,025: INFO: DataStructures_Qn]: list --> [345, 56, 87, 8, 98, 9]
+[2022-07-03 07:35:46,025: INFO: DataStructures_Qn]: odd numbers [23, 67, 345, 87, 9]
+[2022-07-03 07:35:46,025: INFO: DataStructures_Qn]: extracting tuple from data
+[2022-07-03 07:35:46,025: INFO: DataStructures_Qn]: Tuples --> (234, 6657, 6)
+[2022-07-03 07:35:46,025: INFO: DataStructures_Qn]: Number of occurrences of all data
+[2022-07-03 07:35:46,026: ERROR: DataStructures_Qn]: name 'l' is not defined
+Traceback (most recent call last):
+  File "C:\Users\sunit\PycharmProjects\OOP_Ex\DataStructures_Qn.py", line 138, in occurrences_all
+    for i in l:
+NameError: name 'l' is not defined
+[2022-07-03 07:35:46,027: INFO: DataStructures_Qn]: Try to reverse the data
+[2022-07-03 07:35:46,027: INFO: DataStructures_Qn]: Summing up numerical data
+[2022-07-03 07:35:46,028: INFO: DataStructures_Qn]: extract all numeric data
+[2022-07-03 07:35:46,028: INFO: DataStructures_Qn]: Extracted values --> [23, 456, 67, 8, 78, 78, 345, 56, 87, 8, 98, 9, 234, 6657, 6, 234]
+[2022-07-03 07:35:46,028: INFO: DataStructures_Qn]:  Sum = 8444
+[2022-07-03 07:37:51,114: INFO: main]: creating a new string
+[2022-07-03 07:37:51,114: INFO: main]: String operations
+[2022-07-03 07:37:51,115: INFO: String_Qn]: Replacing the character S with P
+[2022-07-03 07:37:51,115: INFO: String_Qn]: Converting the string to upper case and then splitting
+[2022-07-03 07:37:51,115: INFO: String_Qn]: Capitalizing the string
+[2022-07-03 07:37:51,115: INFO: String_Qn]: reversing the string
+[2022-07-03 07:37:51,115: INFO: String_Qn]: Slicing the string from 2 to 5 with step size1
+[2022-07-03 07:37:51,115: INFO: String_Qn]: Converting the string to lower case
+[2022-07-03 07:37:51,115: INFO: main]: created a list l <DataStructures_Qn.DataStructures_Class object at 0x00000278C35A7E20>
+[2022-07-03 07:37:51,116: INFO: main]: data operations
+[2022-07-03 07:37:51,116: INFO: DataStructures_Qn]: extracting list from data
+[2022-07-03 07:37:51,116: INFO: DataStructures_Qn]: list --> [23, 456, 67, 8, 78, 78]
+[2022-07-03 07:37:51,116: INFO: DataStructures_Qn]: list --> [345, 56, 87, 8, 98, 9]
+[2022-07-03 07:37:51,116: INFO: DataStructures_Qn]: extract all numeric data
+[2022-07-03 07:37:51,116: INFO: DataStructures_Qn]: Extracted values --> [23, 456, 67, 8, 78, 78, 345, 56, 87, 8, 98, 9, 234, 6657, 6, 234]
+[2022-07-03 07:37:51,116: INFO: DataStructures_Qn]: extracting values from the dictionary
+[2022-07-03 07:37:51,116: INFO: DataStructures_Qn]: keys --> [dict_values(['sudh', [23, 45, 656]])]
+[2022-07-03 07:37:51,117: INFO: DataStructures_Qn]: extracted []
+[2022-07-03 07:37:51,117: INFO: DataStructures_Qn]: extracting dictionary from data
+[2022-07-03 07:37:51,117: INFO: DataStructures_Qn]: Dictionary --> {'key1': 'sudh', 234: [23, 45, 656]}
+[2022-07-03 07:37:51,117: INFO: DataStructures_Qn]: extracting keys from the dictionary
+[2022-07-03 07:37:51,117: INFO: DataStructures_Qn]: keys --> [dict_keys(['key1', 234])]
+[2022-07-03 07:37:51,117: INFO: DataStructures_Qn]: extracting odd numbers from lists
+[2022-07-03 07:37:51,117: INFO: DataStructures_Qn]: extracting list from data
+[2022-07-03 07:37:51,117: INFO: DataStructures_Qn]: list --> [23, 456, 67, 8, 78, 78]
+[2022-07-03 07:37:51,117: INFO: DataStructures_Qn]: list --> [345, 56, 87, 8, 98, 9]
+[2022-07-03 07:37:51,117: INFO: DataStructures_Qn]: odd numbers [23, 67, 345, 87, 9]
+[2022-07-03 07:37:51,117: INFO: DataStructures_Qn]: extracting tuple from data
+[2022-07-03 07:37:51,117: INFO: DataStructures_Qn]: Tuples --> (234, 6657, 6)
+[2022-07-03 07:37:51,117: INFO: DataStructures_Qn]: Number of occurrences of all data
+[2022-07-03 07:37:51,118: ERROR: DataStructures_Qn]: name 'l' is not defined
+Traceback (most recent call last):
+  File "C:\Users\sunit\PycharmProjects\OOP_Ex\DataStructures_Qn.py", line 138, in occurrences_all
+    for i in l:
+NameError: name 'l' is not defined
+[2022-07-03 07:37:51,118: INFO: DataStructures_Qn]: Try to reverse the data
+[2022-07-03 07:37:51,118: INFO: DataStructures_Qn]: Summing up numerical data
+[2022-07-03 07:37:51,118: INFO: DataStructures_Qn]: extract all numeric data
+[2022-07-03 07:37:51,119: INFO: DataStructures_Qn]: Extracted values --> [23, 456, 67, 8, 78, 78, 345, 56, 87, 8, 98, 9, 234, 6657, 6, 234]
+[2022-07-03 07:37:51,119: INFO: DataStructures_Qn]:  Sum = 8444
+[2022-07-03 07:38:32,846: INFO: main]: creating a new string
+[2022-07-03 07:38:32,846: INFO: main]: String operations
+[2022-07-03 07:38:32,847: INFO: String_Qn]: Replacing the character S with P
+[2022-07-03 07:38:32,847: INFO: String_Qn]: Converting the string to upper case and then splitting
+[2022-07-03 07:38:32,847: INFO: String_Qn]: Capitalizing the string
+[2022-07-03 07:38:32,847: INFO: String_Qn]: reversing the string
+[2022-07-03 07:38:32,847: INFO: String_Qn]: Slicing the string from 2 to 5 with step size1
+[2022-07-03 07:38:32,847: INFO: String_Qn]: Converting the string to lower case
+[2022-07-03 07:38:32,847: INFO: main]: created a list l <DataStructures_Qn.DataStructures_Class object at 0x0000023E5E1D7E20>
+[2022-07-03 07:38:32,847: INFO: main]: data operations
+[2022-07-03 07:38:32,847: INFO: DataStructures_Qn]: extracting list from data
+[2022-07-03 07:38:32,847: INFO: DataStructures_Qn]: list --> [23, 456, 67, 8, 78, 78]
+[2022-07-03 07:38:32,847: INFO: DataStructures_Qn]: list --> [345, 56, 87, 8, 98, 9]
+[2022-07-03 07:38:32,847: INFO: DataStructures_Qn]: extract all numeric data
+[2022-07-03 07:38:32,847: INFO: DataStructures_Qn]: Extracted values --> [23, 456, 67, 8, 78, 78, 345, 56, 87, 8, 98, 9, 234, 6657, 6, 234]
+[2022-07-03 07:38:32,848: INFO: DataStructures_Qn]: extracting values from the dictionary
+[2022-07-03 07:38:32,848: INFO: DataStructures_Qn]: keys --> [dict_values(['sudh', [23, 45, 656]])]
+[2022-07-03 07:38:32,848: INFO: DataStructures_Qn]: extracted []
+[2022-07-03 07:38:32,848: INFO: DataStructures_Qn]: extracting dictionary from data
+[2022-07-03 07:38:32,848: INFO: DataStructures_Qn]: Dictionary --> {'key1': 'sudh', 234: [23, 45, 656]}
+[2022-07-03 07:38:32,848: INFO: DataStructures_Qn]: extracting keys from the dictionary
+[2022-07-03 07:38:32,848: INFO: DataStructures_Qn]: keys --> [dict_keys(['key1', 234])]
+[2022-07-03 07:38:32,848: INFO: DataStructures_Qn]: extracting odd numbers from lists
+[2022-07-03 07:38:32,848: INFO: DataStructures_Qn]: extracting list from data
+[2022-07-03 07:38:32,848: INFO: DataStructures_Qn]: list --> [23, 456, 67, 8, 78, 78]
+[2022-07-03 07:38:32,848: INFO: DataStructures_Qn]: list --> [345, 56, 87, 8, 98, 9]
+[2022-07-03 07:38:32,848: INFO: DataStructures_Qn]: odd numbers [23, 67, 345, 87, 9]
+[2022-07-03 07:38:32,848: INFO: DataStructures_Qn]: extracting tuple from data
+[2022-07-03 07:38:32,848: INFO: DataStructures_Qn]: Tuples --> (234, 6657, 6)
+[2022-07-03 07:38:32,848: INFO: DataStructures_Qn]: Number of occurrences of all data
+[2022-07-03 07:38:32,849: ERROR: DataStructures_Qn]: 'int' object is not iterable
+Traceback (most recent call last):
+  File "C:\Users\sunit\PycharmProjects\OOP_Ex\DataStructures_Qn.py", line 144, in occurrences_all
+    for j in i:
+TypeError: 'int' object is not iterable
+[2022-07-03 07:38:32,853: INFO: DataStructures_Qn]: Try to reverse the data
+[2022-07-03 07:38:32,853: INFO: DataStructures_Qn]: Summing up numerical data
+[2022-07-03 07:38:32,853: INFO: DataStructures_Qn]: extract all numeric data
+[2022-07-03 07:38:32,853: INFO: DataStructures_Qn]: Extracted values --> [23, 456, 67, 8, 78, 78, 345, 56, 87, 8, 98, 9, 234, 6657, 6, 234]
+[2022-07-03 07:38:32,853: INFO: DataStructures_Qn]:  Sum = 8444
+[2022-07-03 07:42:02,950: INFO: main]: creating a new string
+[2022-07-03 07:42:02,951: INFO: main]: String operations
+[2022-07-03 07:42:02,951: INFO: String_Qn]: Replacing the character S with P
+[2022-07-03 07:42:02,951: INFO: String_Qn]: Converting the string to upper case and then splitting
+[2022-07-03 07:42:02,951: INFO: String_Qn]: Capitalizing the string
+[2022-07-03 07:42:02,952: INFO: String_Qn]: reversing the string
+[2022-07-03 07:42:02,952: INFO: String_Qn]: Slicing the string from 2 to 5 with step size1
+[2022-07-03 07:42:02,952: INFO: String_Qn]: Converting the string to lower case
+[2022-07-03 07:42:02,952: INFO: main]: created a list l <DataStructures_Qn.DataStructures_Class object at 0x00000222FFED7E20>
+[2022-07-03 07:42:02,952: INFO: main]: data operations
+[2022-07-03 07:42:02,952: INFO: DataStructures_Qn]: extracting list from data
+[2022-07-03 07:42:02,952: INFO: DataStructures_Qn]: list --> [23, 456, 67, 8, 78, 78]
+[2022-07-03 07:42:02,952: INFO: DataStructures_Qn]: list --> [345, 56, 87, 8, 98, 9]
+[2022-07-03 07:42:02,953: INFO: DataStructures_Qn]: extract all numeric data
+[2022-07-03 07:42:02,953: INFO: DataStructures_Qn]: Extracted values --> [23, 456, 67, 8, 78, 78, 345, 56, 87, 8, 98, 9, 234, 6657, 6, 234]
+[2022-07-03 07:42:02,953: INFO: DataStructures_Qn]: extracting values from the dictionary
+[2022-07-03 07:42:02,953: INFO: DataStructures_Qn]: keys --> [dict_values(['sudh', [23, 45, 656]])]
+[2022-07-03 07:42:02,953: INFO: DataStructures_Qn]: extracted []
+[2022-07-03 07:42:02,953: INFO: DataStructures_Qn]: extracting dictionary from data
+[2022-07-03 07:42:02,954: INFO: DataStructures_Qn]: Dictionary --> {'key1': 'sudh', 234: [23, 45, 656]}
+[2022-07-03 07:42:02,954: INFO: DataStructures_Qn]: extracting keys from the dictionary
+[2022-07-03 07:42:02,954: INFO: DataStructures_Qn]: keys --> [dict_keys(['key1', 234])]
+[2022-07-03 07:42:02,955: INFO: DataStructures_Qn]: extracting odd numbers from lists
+[2022-07-03 07:42:02,955: INFO: DataStructures_Qn]: extracting list from data
+[2022-07-03 07:42:02,955: INFO: DataStructures_Qn]: list --> [23, 456, 67, 8, 78, 78]
+[2022-07-03 07:42:02,955: INFO: DataStructures_Qn]: list --> [345, 56, 87, 8, 98, 9]
+[2022-07-03 07:42:02,955: INFO: DataStructures_Qn]: odd numbers [23, 67, 345, 87, 9]
+[2022-07-03 07:42:02,955: INFO: DataStructures_Qn]: extracting tuple from data
+[2022-07-03 07:42:02,955: INFO: DataStructures_Qn]: Tuples --> (234, 6657, 6)
+[2022-07-03 07:42:02,955: INFO: DataStructures_Qn]: Number of occurrences of all data
+[2022-07-03 07:42:02,955: ERROR: DataStructures_Qn]: unhashable type: 'list'
+Traceback (most recent call last):
+  File "C:\Users\sunit\PycharmProjects\OOP_Ex\DataStructures_Qn.py", line 148, in occurrences_all
+    for i in set(q10_l):
+TypeError: unhashable type: 'list'
+[2022-07-03 07:42:02,956: INFO: DataStructures_Qn]: Try to reverse the data
+[2022-07-03 07:42:02,956: INFO: DataStructures_Qn]: Summing up numerical data
+[2022-07-03 07:42:02,956: INFO: DataStructures_Qn]: extract all numeric data
+[2022-07-03 07:42:02,956: INFO: DataStructures_Qn]: Extracted values --> [23, 456, 67, 8, 78, 78, 345, 56, 87, 8, 98, 9, 234, 6657, 6, 234]
+[2022-07-03 07:42:02,956: INFO: DataStructures_Qn]:  Sum = 8444
+[2022-07-03 07:43:16,347: INFO: main]: creating a new string
+[2022-07-03 07:43:16,348: INFO: main]: String operations
+[2022-07-03 07:43:16,348: INFO: String_Qn]: Replacing the character S with P
+[2022-07-03 07:43:16,348: INFO: String_Qn]: Converting the string to upper case and then splitting
+[2022-07-03 07:43:16,348: INFO: String_Qn]: Capitalizing the string
+[2022-07-03 07:43:16,348: INFO: String_Qn]: reversing the string
+[2022-07-03 07:43:16,348: INFO: String_Qn]: Slicing the string from 2 to 5 with step size1
+[2022-07-03 07:43:16,349: INFO: String_Qn]: Converting the string to lower case
+[2022-07-03 07:43:16,349: INFO: main]: created a list l <DataStructures_Qn.DataStructures_Class object at 0x00000232DF967E20>
+[2022-07-03 07:43:16,349: INFO: main]: data operations
+[2022-07-03 07:43:16,349: INFO: DataStructures_Qn]: extracting list from data
+[2022-07-03 07:43:16,349: INFO: DataStructures_Qn]: list --> [23, 456, 67, 8, 78, 78]
+[2022-07-03 07:43:16,349: INFO: DataStructures_Qn]: list --> [345, 56, 87, 8, 98, 9]
+[2022-07-03 07:43:16,349: INFO: DataStructures_Qn]: extract all numeric data
+[2022-07-03 07:43:16,349: INFO: DataStructures_Qn]: Extracted values --> [23, 456, 67, 8, 78, 78, 345, 56, 87, 8, 98, 9, 234, 6657, 6, 234]
+[2022-07-03 07:43:16,349: INFO: DataStructures_Qn]: extracting values from the dictionary
+[2022-07-03 07:43:16,349: INFO: DataStructures_Qn]: keys --> [dict_values(['sudh', [23, 45, 656]])]
+[2022-07-03 07:43:16,350: INFO: DataStructures_Qn]: extracted []
+[2022-07-03 07:43:16,350: INFO: DataStructures_Qn]: extracting dictionary from data
+[2022-07-03 07:43:16,350: INFO: DataStructures_Qn]: Dictionary --> {'key1': 'sudh', 234: [23, 45, 656]}
+[2022-07-03 07:43:16,350: INFO: DataStructures_Qn]: extracting keys from the dictionary
+[2022-07-03 07:43:16,350: INFO: DataStructures_Qn]: keys --> [dict_keys(['key1', 234])]
+[2022-07-03 07:43:16,350: INFO: DataStructures_Qn]: extracting odd numbers from lists
+[2022-07-03 07:43:16,350: INFO: DataStructures_Qn]: extracting list from data
+[2022-07-03 07:43:16,350: INFO: DataStructures_Qn]: list --> [23, 456, 67, 8, 78, 78]
+[2022-07-03 07:43:16,350: INFO: DataStructures_Qn]: list --> [345, 56, 87, 8, 98, 9]
+[2022-07-03 07:43:16,350: INFO: DataStructures_Qn]: odd numbers [23, 67, 345, 87, 9]
+[2022-07-03 07:43:16,350: INFO: DataStructures_Qn]: extracting tuple from data
+[2022-07-03 07:43:16,351: INFO: DataStructures_Qn]: Tuples --> (234, 6657, 6)
+[2022-07-03 07:43:16,351: INFO: DataStructures_Qn]: Try to reverse the data
+[2022-07-03 07:43:16,351: INFO: DataStructures_Qn]: Summing up numerical data
+[2022-07-03 07:43:16,351: INFO: DataStructures_Qn]: extract all numeric data
+[2022-07-03 07:43:16,351: INFO: DataStructures_Qn]: Extracted values --> [23, 456, 67, 8, 78, 78, 345, 56, 87, 8, 98, 9, 234, 6657, 6, 234]
+[2022-07-03 07:43:16,351: INFO: DataStructures_Qn]:  Sum = 8444
